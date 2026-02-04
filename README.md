@@ -25,6 +25,6 @@ This repository contains a Node.js/Express.js version of the counter service for
 
 ## Setup
 
-1. **Install dependencies:**
+1. **Install dependencies::**
    ```bash
    npm install
